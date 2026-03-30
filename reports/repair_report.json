@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "attempted": true,
+  "build_passed": false,
+  "iterations": [
+    {
+      "attempt": 1,
+      "summary": "",
+      "files_changed": [],
+      "build_passed": false,
+      "build_command": null
+    }
+  ],
+  "final_build": {
+    "success": false,
+    "command": null,
+    "stdout": "",
+    "stderr": "No supported build command found for generated project",
+    "combined_output": "No supported build command found for generated project",
+    "error_files": []
+  }
+}

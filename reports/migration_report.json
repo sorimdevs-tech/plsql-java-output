@@ -1,0 +1,21 @@
+{
+  "total_procedures": 1,
+  "total_functions": 0,
+  "total_triggers": 0,
+  "total_packages": 0,
+  "tables_detected": 6,
+  "java_files_generated": 14,
+  "entities_generated": 6,
+  "repositories_generated": 6,
+  "services_generated": 1,
+  "controllers_generated": 1,
+  "unit_tests_generated": 0,
+  "integration_tests_generated": 0,
+  "total_tests_generated": 0,
+  "validation_passed": true,
+  "semantic_validation_passed": true,
+  "backup_llm_repair_enabled": true,
+  "backup_llm_repair_attempted": true,
+  "build_validation_passed": false,
+  "repair_iterations": 1
+}
